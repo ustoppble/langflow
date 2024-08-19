@@ -2,7 +2,7 @@
 * text eol=lf
 
 # Explicitly declare text files you want to always be normalized and converted
-# to native line endings on checkout.
+# to native line endings on checkout.b
 *.c text
 *.h text
 *.py text

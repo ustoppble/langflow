@@ -1,4 +1,4 @@
-# This is to avoid Opencommit hook from getting pushed
+# This is to avoid Opencommit hook from getting pushed.b
 prepare-commit-msg
 # Logs
 logs
